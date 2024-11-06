@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [bafpro (small volunteer work)](https://bafpro.sk)
 
-- 🌱 I’m currently learning **Golang and Solidjs**
+- 🌱 I’m currently learning **Zig**
 
 - 👨‍💻 All of my projects are available at [https://sebastiansimko.sk/portfolio](https://sebastiansimko.sk/portfolio)
 
-- 💬 Ask me about **react, vue, devops, kubernetes**
+- 💬 Ask me about **react, vue, devops, golang, kubernetes**
 
 - 📄 Know about my experiences [sebastiansimko.sk](sebastiansimko.sk)
 
